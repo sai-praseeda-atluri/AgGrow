@@ -2,6 +2,9 @@
 
 AgGrow is a Flutter application designed to provide comprehensive information about various crops and agricultural settings. The app aims to assist farmers, agricultural students, and enthusiasts in understanding crop characteristics, land suitability, and seasonal best practices. AgGrow combines a user-friendly interface with vast and diverse content to create an invaluable resource for anyone involved in agriculture.
 
+![IMG-20240611-WA0007](https://github.com/sai-praseeda-atluri/AgGrow/assets/144923537/ff20c42a-bd56-48ad-9923-dc12e8650ad3)
+
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
@@ -87,21 +90,36 @@ Once the app is running, you will start on the main page, which serves as the en
 
 The main page is the welcome screen of the application, providing an introduction and overview of the app’s features. It includes a welcoming message and navigation options to other sections.
 
+![IMG-20240611-WA0007](https://github.com/sai-praseeda-atluri/AgGrow/assets/144923537/d7604667-4e11-45b9-a402-a13b9bad4e2b)
+
+
 ### Crop Selection (mainpage.dart)
 
 This page allows users to select a season and view a list of crops suitable for that season. Users can then navigate to detailed pages for each crop to learn more about growing conditions and best practices.
+
+![IMG-20240611-WA0005](https://github.com/sai-praseeda-atluri/AgGrow/assets/144923537/da7017e0-13b6-44a9-8f12-762c872cb16b)
+
 
 ### Crop Pages
 
 Each crop page provides detailed information about a specific crop. Users can select a season and view crops suitable for that season using dropdown menus. Selecting a crop navigates the user to a detailed page for that crop.
 
+![IMG-20240611-WA0006](https://github.com/sai-praseeda-atluri/AgGrow/assets/144923537/4431ae2e-6b07-457e-9988-202fe8713ac3)
+
+
 ### Land Information (land.dart)
 
 The land information page, although currently under development, will allow users to input details about their land. This includes soil type, size, and location. Based on this information, the app will recommend suitable crops and provide relevant details regarding planting schedules, fertilization, and irrigation etc.
 
+![IMG-20240611-WA0008](https://github.com/sai-praseeda-atluri/AgGrow/assets/144923537/f720f6ce-6188-4e54-a995-47a5a0252671)
+
+
 ### Settings (settings.dart)
 
 The settings page allows users to customize the application, including switching between light and dark themes, and changing the language interface.
+
+![IMG-20240611-WA0004](https://github.com/sai-praseeda-atluri/AgGrow/assets/144923537/2026a34c-54dd-48c2-8cfd-b700594984f3)
+
 
 
 ## Routes
