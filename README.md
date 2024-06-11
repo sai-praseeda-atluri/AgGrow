@@ -1,6 +1,6 @@
 # AgGrow
 
-AgGrow is a Flutter application designed to provide comprehensive information about various crops and agricultural settings. The app aims to assist farmers, agricultural students, and enthusiasts in understanding crop characteristics, land suitability, and seasonal best practices. AgGrow combines a user-friendly interface with rich, dynamic content to create an invaluable resource for anyone involved in agriculture.
+AgGrow is a Flutter application designed to provide comprehensive information about various crops and agricultural settings. The app aims to assist farmers, agricultural students, and enthusiasts in understanding crop characteristics, land suitability, and seasonal best practices. AgGrow combines a user-friendly interface with vast and diverse content to create an invaluable resource for anyone involved in agriculture.
 
 ## Table of Contents
 - [Overview](#overview)
